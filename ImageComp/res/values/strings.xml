@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageComp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="reg_phoneNumber">Please Register PhoneNumber</string>
+    <string name="shr_phoneNumber">phoneNumber</string>
+    <string name="shared_preference_name">MyPrefs</string>
+    <string name="shr_count_details">nameKey</string>
+    <string name="thanks_sms_register">Thanks for reg the phone Number</string>
+    <string name="image_deleted">App deleted the vulgarity content Image!!!</string>
+    <string name="sms_message">The app suspects the registed device are viewing vulgarity Content! As per the instruction, We are deleted those content! Thanks.</string>
+</resources>
